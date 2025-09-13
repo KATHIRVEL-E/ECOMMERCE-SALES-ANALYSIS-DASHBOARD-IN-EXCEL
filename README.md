@@ -5,7 +5,7 @@ This repository contains an **Excel-based interactive dashboard** for analyzing 
 ---
 
 ## 🖼️ Dashboard Preview  
-(<img width="1875" height="663" alt="image" src="https://github.com/user-attachments/assets/6a7c686d-e5ea-4463-a7bb-51d009bb423d" />
+<img width="1875" height="663" alt="image" src="https://github.com/user-attachments/assets/6a7c686d-e5ea-4463-a7bb-51d009bb423d" />
   
 
 ---
